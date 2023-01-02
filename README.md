@@ -1,2 +1,2 @@
 # JsStudy
- Estudos de JavaScript( fetch, async e await)
+ Estudos de JavaScript(fetch, async e await).
