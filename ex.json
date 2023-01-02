@@ -1,0 +1,12 @@
+{
+    "nome": "Abraão Oliveira",
+    "idade": 20,
+    "livros_favoritos": [
+        "O Alquimista",
+        "The Witcher: O útimo desejo"
+    ],
+    "hobbies": {
+        "semana": "Ler",
+        "fim_de_semana": "Basquete"
+    }
+}
